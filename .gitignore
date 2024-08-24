@@ -1,2 +1,3 @@
 .vscode
 .mypy_cache
+.__py_cache__
